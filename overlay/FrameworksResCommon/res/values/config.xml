@@ -212,12 +212,6 @@
     <!-- Set to true to add links to Cell Broadcast app from Settings and MMS app. -->
     <bool name="config_cellBroadcastAppLinks">true</bool>
 
-    <!--  Maximum number of supported users -->
-    <integer name="config_multiuserMaximumUsers">4</integer>
-
-    <!-- Whether UI for multi user should be shown -->
-    <bool name="config_enableMultiUserUI">true</bool>
-
     <!-- Configure mobile tcp buffer sizes in the form:
          rat-name:rmem_min,rmem_def,rmem_max,wmem_min,wmem_def,wmem_max
          If no value is found for the rat-name in use, the system default will be applied.
