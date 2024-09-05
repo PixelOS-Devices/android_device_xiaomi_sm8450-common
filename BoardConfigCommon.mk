@@ -91,7 +91,8 @@ BOARD_VENDOR_RAMDISK_FRAGMENT.dlkm.KERNEL_MODULE_DIRS := top
 BOARD_KERNEL_CMDLINE := \
     disable_dma32=on \
     mtdoops.fingerprint=$(LINEAGE_VERSION) \
-    irqaffinity=0-3
+    irqaffinity=0-3 \
+    pelt=8
 
 BOARD_BOOTCONFIG := \
     androidboot.hardware=qcom \
