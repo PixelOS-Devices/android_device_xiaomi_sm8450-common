@@ -52,6 +52,24 @@
       "parentUuid": "389e9d49_6e51532d",
       "revId": "6b15864f739e9e3ba721ea62033c9b41aca2071c",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "daf1cd9f_caa4a1c2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000013
+      },
+      "writtenOn": "2026-01-05T16:49:55Z",
+      "side": 1,
+      "message": "On A15 after qpr , MiuiCamera kept fc-ing due to nonexistent denials (already labelled and resolved). this hack somehow managed to get it working. I\u0027m not sure if it\u0027s still needed.",
+      "parentUuid": "2a86f754_a1378592",
+      "revId": "6b15864f739e9e3ba721ea62033c9b41aca2071c",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
