@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "965147b3_86936481",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2026-01-05T07:23:36Z",
+      "side": 1,
+      "message": "Will this not break the build if user doesn\u0027t want MiuiCamera?",
+      "revId": "6b15864f739e9e3ba721ea62033c9b41aca2071c",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
