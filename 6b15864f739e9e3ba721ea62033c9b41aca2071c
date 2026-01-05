@@ -16,6 +16,24 @@
       "message": "Will this not break the build if user doesn\u0027t want MiuiCamera?",
       "revId": "6b15864f739e9e3ba721ea62033c9b41aca2071c",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "389e9d49_6e51532d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000013
+      },
+      "writtenOn": "2026-01-05T16:40:19Z",
+      "side": 1,
+      "message": "MiuiCamera is shipped by default as all users want it.",
+      "parentUuid": "965147b3_86936481",
+      "revId": "6b15864f739e9e3ba721ea62033c9b41aca2071c",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
