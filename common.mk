@@ -149,7 +149,8 @@ PRODUCT_PACKAGES += \
 
 ifeq ($(TARGET_HAS_UDFPS),true)
 PRODUCT_PACKAGES += \
-    FrameworksResUdfps
+    FrameworksResUdfps \
+    CustomSettingsResUdfps
 
 PRODUCT_VENDOR_PROPERTIES += \
     ro.vendor.sensors.xiaomi.udfps=true
