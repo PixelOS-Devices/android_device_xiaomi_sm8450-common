@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d23f825d_3b79aaeb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000053
+      },
+      "writtenOn": "2026-06-03T16:20:56Z",
+      "side": 1,
+      "message": "Move to device instead of board",
+      "revId": "7c89e7f974fecba888b05073eb31517602eca554",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
