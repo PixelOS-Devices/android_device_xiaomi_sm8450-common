@@ -16,6 +16,24 @@
       "message": "Move to device instead of board",
       "revId": "7c89e7f974fecba888b05073eb31517602eca554",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0892668c_332de009",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000151
+      },
+      "writtenOn": "2026-06-05T14:10:31Z",
+      "side": 1,
+      "message": "Ок!",
+      "parentUuid": "d23f825d_3b79aaeb",
+      "revId": "7c89e7f974fecba888b05073eb31517602eca554",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
