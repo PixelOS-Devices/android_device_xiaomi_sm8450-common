@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d6cbbcce_c4614d44",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000093
+      },
+      "writtenOn": "2026-06-26T04:53:04Z",
+      "side": 1,
+      "message": "This is for parrot66? Is offline charging actually broken on Xiaomi 8450?",
+      "revId": "fa1be5436692bdbf9a5f99bf243997e8a0bfd866",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
