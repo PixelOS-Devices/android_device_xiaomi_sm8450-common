@@ -16,6 +16,24 @@
       "message": "This is for parrot66? Is offline charging actually broken on Xiaomi 8450?",
       "revId": "fa1be5436692bdbf9a5f99bf243997e8a0bfd866",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e0e22b14_7a4b8645",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000151
+      },
+      "writtenOn": "2026-06-26T22:37:14Z",
+      "side": 1,
+      "message": "I tested it on three different ROMs: LineageOS, POS, and EvoX.\n\nIt was tested on three devices: ziyi, marble, and another SM8550-based device.\n\nWithout a forced restart, the device will charge, but it will get stuck on the initial boot screen. This method simply restarts charging mode after all dependencies have been initialized. After that, everything works perfectly.",
+      "parentUuid": "d6cbbcce_c4614d44",
+      "revId": "fa1be5436692bdbf9a5f99bf243997e8a0bfd866",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
