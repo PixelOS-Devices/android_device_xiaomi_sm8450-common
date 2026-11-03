@@ -1,5 +1,7 @@
 allow hal_audio_default vendor_persist_audio_file:file rw_file_perms;
 
+hal_client_domain(hal_audio_default, hal_dms)
+
 unix_socket_connect(hal_audio_default, audio, hal_sensors_default)
 
 set_prop(hal_audio_default, vendor_audio_prop)
