@@ -78,6 +78,11 @@ blob_fixups: blob_fixups_user_type = {
             'libgrpc++_unsecure.so', 'libgrpc++_unsecure_prebuilt.so'
         ),
     (
+        'vendor/bin/hw/vendor.dolby.hardware.dms@2.0-service',
+        'vendor/bin/hw/vendor.dolby.media.c2@1.0-service',
+    ): blob_fixup()
+        .add_needed('libstagefright_foundation-v33.so'),
+    (
        'vendor/etc/media_codecs_cape.xml',
        'vendor/etc/media_codecs_diwali_v0.xml',
        'vendor/etc/media_codecs_diwali_v1.xml',
