@@ -183,6 +183,29 @@
       },
       "revId": "1ccc7f71b5201a474ce0d691df38cd3e11917be3",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d7e1a1f0_cdd11fab",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 238,
+      "author": {
+        "id": 1000151
+      },
+      "writtenOn": "2026-11-17T11:50:02Z",
+      "side": 1,
+      "message": "check your audio_effects and blobls or your get breack",
+      "range": {
+        "startLine": 238,
+        "startChar": 0,
+        "endLine": 238,
+        "endChar": 77
+      },
+      "revId": "1ccc7f71b5201a474ce0d691df38cd3e11917be3",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
