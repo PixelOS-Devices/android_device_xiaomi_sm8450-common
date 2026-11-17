@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "463df3b7_53da38d8",
+        "filename": "extract-files.py",
+        "patchSetId": 5
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 1000151
+      },
+      "writtenOn": "2026-11-17T11:22:37Z",
+      "side": 1,
+      "message": "add c2 hwmediacodec",
+      "range": {
+        "startLine": 86,
+        "startChar": 0,
+        "endLine": 86,
+        "endChar": 43
+      },
+      "revId": "f7401c34e9e583ac58fb583a3ded07bead9bba15",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
