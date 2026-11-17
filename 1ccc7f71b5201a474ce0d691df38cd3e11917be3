@@ -3,6 +3,167 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "69a57faa_c6296493",
+        "filename": "audio/audio_effects.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1000151
+      },
+      "writtenOn": "2026-11-17T11:44:15Z",
+      "side": 1,
+      "message": "????? your use qcom opensorce audio - this libs vender blobs  do not works",
+      "range": {
+        "startLine": 43,
+        "startChar": 0,
+        "endLine": 45,
+        "endChar": 54
+      },
+      "revId": "1ccc7f71b5201a474ce0d691df38cd3e11917be3",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "43381e42_7c672c28",
+        "filename": "audio/audio_effects.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 1000151
+      },
+      "writtenOn": "2026-11-17T11:44:15Z",
+      "side": 1,
+      "message": "del",
+      "range": {
+        "startLine": 113,
+        "startChar": 0,
+        "endLine": 118,
+        "endChar": 11
+      },
+      "revId": "1ccc7f71b5201a474ce0d691df38cd3e11917be3",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c5d7877c_fe101d36",
+        "filename": "audio/audio_effects.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 1000151
+      },
+      "writtenOn": "2026-11-17T11:44:15Z",
+      "side": 1,
+      "message": "del",
+      "range": {
+        "startLine": 123,
+        "startChar": 0,
+        "endLine": 123,
+        "endChar": 109
+      },
+      "revId": "1ccc7f71b5201a474ce0d691df38cd3e11917be3",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ce77e289_d0a578f3",
+        "filename": "audio/audio_effects.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 140,
+      "author": {
+        "id": 1000151
+      },
+      "writtenOn": "2026-11-17T11:44:15Z",
+      "side": 1,
+      "message": "del",
+      "range": {
+        "startLine": 140,
+        "startChar": 0,
+        "endLine": 140,
+        "endChar": 64
+      },
+      "revId": "1ccc7f71b5201a474ce0d691df38cd3e11917be3",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bd841916_7708a661",
+        "filename": "audio/audio_effects.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 144,
+      "author": {
+        "id": 1000151
+      },
+      "writtenOn": "2026-11-17T11:44:15Z",
+      "side": 1,
+      "message": "del",
+      "range": {
+        "startLine": 144,
+        "startChar": 0,
+        "endLine": 144,
+        "endChar": 65
+      },
+      "revId": "1ccc7f71b5201a474ce0d691df38cd3e11917be3",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cd125b0d_9c206fdd",
+        "filename": "audio/audio_effects.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 153,
+      "author": {
+        "id": 1000151
+      },
+      "writtenOn": "2026-11-17T11:44:15Z",
+      "side": 1,
+      "message": "del",
+      "range": {
+        "startLine": 149,
+        "startChar": 0,
+        "endLine": 153,
+        "endChar": 24
+      },
+      "revId": "1ccc7f71b5201a474ce0d691df38cd3e11917be3",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7cd7ec19_9ea5746a",
+        "filename": "audio/audio_effects.xml",
+        "patchSetId": 4
+      },
+      "lineNbr": 156,
+      "author": {
+        "id": 1000151
+      },
+      "writtenOn": "2026-11-17T11:44:15Z",
+      "side": 1,
+      "message": "del",
+      "range": {
+        "startLine": 156,
+        "startChar": 0,
+        "endLine": 156,
+        "endChar": 72
+      },
+      "revId": "1ccc7f71b5201a474ce0d691df38cd3e11917be3",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "baea4bf8_458b5213",
         "filename": "properties/vendor.prop",
         "patchSetId": 4
