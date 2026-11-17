@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "baea4bf8_458b5213",
+        "filename": "properties/vendor.prop",
+        "patchSetId": 4
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 1000151
+      },
+      "writtenOn": "2026-11-17T11:19:26Z",
+      "side": 1,
+      "message": "If your dooby stack is simply transferred without a version patch, there may be problems with loading dax without checking it via props.",
+      "range": {
+        "startLine": 102,
+        "startChar": 0,
+        "endLine": 102,
+        "endChar": 38
+      },
+      "revId": "1ccc7f71b5201a474ce0d691df38cd3e11917be3",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
