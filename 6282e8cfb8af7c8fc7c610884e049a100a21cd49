@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ca396a52_14024092",
+        "filename": "extract-files.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 1000151
+      },
+      "writtenOn": "2026-11-17T11:30:44Z",
+      "side": 1,
+      "message": "You will start searching for 2 options for one library. You may get a race. Moreover, the new version is incompatible in terms of ABI.\n\nrelace need libstagefright_foundation",
+      "range": {
+        "startLine": 84,
+        "startChar": 0,
+        "endLine": 84,
+        "endChar": 56
+      },
+      "revId": "6282e8cfb8af7c8fc7c610884e049a100a21cd49",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
