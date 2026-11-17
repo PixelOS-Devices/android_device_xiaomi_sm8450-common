@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "da600e39_285f3b3c",
+        "filename": "common.mk",
+        "patchSetId": 4
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 1000151
+      },
+      "writtenOn": "2026-11-17T11:13:31Z",
+      "side": 0,
+      "message": "When building a stack from source code, it’s better not to mix stacks; instead, leave them as they are and determine Dolby via the device’s local media codec.",
+      "range": {
+        "startLine": 92,
+        "startChar": 0,
+        "endLine": 92,
+        "endChar": 152
+      },
+      "revId": "99f3fa2c951efce68124e24e4452df57b2a78310",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
