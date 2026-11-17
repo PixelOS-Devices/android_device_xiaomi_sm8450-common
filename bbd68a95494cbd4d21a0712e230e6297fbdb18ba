@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "514c3aa1_33affe0d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000151
+      },
+      "writtenOn": "2026-11-17T11:36:45Z",
+      "side": 1,
+      "message": "https://github.com/dkpost3/hardware_dolby_Lunaris/commit/b5320207055873f9d6d4e740376820f5d34d5cbe",
+      "revId": "bbd68a95494cbd4d21a0712e230e6297fbdb18ba",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
