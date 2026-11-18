@@ -197,7 +197,7 @@ DEVICE_MATRIX_FILE := hardware/qcom-caf/common/compatibility_matrix.xml
 
 DEVICE_MANIFEST_SKUS := taro diwali cape ukee
 $(foreach sku, $(call to-upper, $(DEVICE_MANIFEST_SKUS)), \
-    $(eval DEVICE_MANIFEST_$(sku)_FILES := \
+    $(eval DEVICE_MANIFEST_$(sku)_FILES += \
         $(COMMON_PATH)/vintf/manifest.xml \
         $(COMMON_PATH)/vintf/manifest_xiaomi.xml \
         $(if $(TARGET_NFC_SUPPORTED_SKUS),$(COMMON_PATH)/vintf/manifest_no_nfc.xml,) \
