@@ -85,9 +85,11 @@ blob_fixups: blob_fixups_user_type = {
        'vendor/etc/media_codecs_taro.xml',
        'vendor/etc/media_codecs_ukee.xml',
     ): blob_fixup()
-        .regex_replace('.+media_codecs_(google_audio|google_c2|google_telephony|vendor_audio).+\n', ''),
+        .regex_replace('.+media_codecs_(google_audio|google_c2|google_telephony|vendor_audio).+\n', '')
+        .regex_replace('</MediaCodecs>','    <Include href="media_codecs_dolby_audio.xml" />')
+        .add_line_if_missing('</MediaCodecs>'),
     'vendor/etc/vintf/manifest/c2_manifest_vendor.xml': blob_fixup()
-        .regex_replace('.+dolby.+\n', ''),
+        .regex_replace('dolby', 'default1'),
     (
         'vendor/lib64/libdpps.so',
         'vendor/lib64/libsnapdragoncolor-manager.so',
