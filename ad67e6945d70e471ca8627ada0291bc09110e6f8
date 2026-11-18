@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "022ac2f5_744c458a",
+        "filename": "audio/audio_effects.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 1000151
+      },
+      "writtenOn": "2026-11-18T10:21:40Z",
+      "side": 1,
+      "message": "There are two points here: our device can process DAP via DSP (hardware), and  software implementation is essentially an improved equalizer.\n\nTake a look as an example — not everything is perfect there. But it works for both AC3 and AC4.\n\nhttps://github.com/dkpost3/hardware_dolby_Lunaris",
+      "range": {
+        "startLine": 44,
+        "startChar": 34,
+        "endLine": 44,
+        "endChar": 42
+      },
+      "revId": "ad67e6945d70e471ca8627ada0291bc09110e6f8",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
