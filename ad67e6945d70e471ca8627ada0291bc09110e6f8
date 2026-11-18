@@ -46,6 +46,30 @@
       },
       "revId": "ad67e6945d70e471ca8627ada0291bc09110e6f8",
       "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2b151361_d24b68b4",
+        "filename": "audio/audio_effects.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 1000093
+      },
+      "writtenOn": "2026-11-18T15:00:20Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ddf34cd4_d8b3ded0",
+      "range": {
+        "startLine": 44,
+        "startChar": 34,
+        "endLine": 44,
+        "endChar": 42
+      },
+      "revId": "ad67e6945d70e471ca8627ada0291bc09110e6f8",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
     }
   ]
 }
