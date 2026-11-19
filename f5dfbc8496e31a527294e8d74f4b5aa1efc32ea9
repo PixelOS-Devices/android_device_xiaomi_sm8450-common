@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b7c277c9_345376b5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000151
+      },
+      "writtenOn": "2026-11-19T23:39:20Z",
+      "side": 1,
+      "message": "I checked  audio flags, it seems to me that this is enough to build from source, the rest are outdated or do not provide anything. I would be grateful for checking.\n\n# Audio\nAUDIO_FEATURE_ENABLED_GEF_SUPPORT :\u003d true\nAUDIO_FEATURE_ENABLED_INSTANCE_ID :\u003d true\nAUDIO_FEATURE_ENABLED_PAL_HIDL :\u003d true\n\nBOARD_SUPPORTS_OPENSOURCE_STHAL :\u003d true",
+      "revId": "f5dfbc8496e31a527294e8d74f4b5aa1efc32ea9",
+      "serverId": "58543e18-2196-4633-8043-7787712585ad"
+    }
+  ]
+}
